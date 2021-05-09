@@ -1,0 +1,297 @@
+2021-04-27T07:07:11+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:08:17+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:08:19+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:08:20+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:08:25+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:08:35+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:08:38+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:08:43+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:08:53+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:08:56+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:09:01+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:09:12+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:09:15+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:09:20+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:09:30+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:09:33+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:09:38+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:09:48+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:09:51+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:09:57+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:10:06+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:10:10+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:10:16+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:10:25+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:10:26+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:16:15+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+
+2021-04-27T07:16:22+00:00 CRITICAL Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /var/www/wordpress/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /var/www/wordpress/wp-includes/IXR/class-IXR-server.php(27): IXR_Server->serve('<?xml version="...' in /var/www/wordpress/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+

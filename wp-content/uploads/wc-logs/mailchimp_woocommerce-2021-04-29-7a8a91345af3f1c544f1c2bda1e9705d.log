@@ -1,0 +1,222 @@
+2021-04-29T09:19:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4481
+2021-04-29T09:19:16+00:00 NOTICE debug :: Order ID 4481 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://frazshabbir.lucentsoftwares.com/?wc-ajax=get_refreshed_fragments
+        )
+
+)
+
+2021-04-29T09:20:50+00:00 NOTICE order.member.updated :: Updated jmcuog@gmail.com subscriber status to subscribed and language to en
+2021-04-29T09:20:50+00:00 NOTICE order_submit.success :: addStoreOrder :: #4481 :: email: jmcuog@gmail.com :: landing site http://frazshabbir.lucentsoftwares.com/?wc-ajax=get_refreshed_fragments
+2021-04-29T09:31:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4483
+2021-04-29T09:31:26+00:00 NOTICE debug :: Order ID 4483 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://frazshabbir.lucentsoftwares.com/?wc-ajax=get_refreshed_fragments
+        )
+
+)
+
+2021-04-29T09:33:01+00:00 NOTICE order.member.updated :: Updated abc@emial.com subscriber status to subscribed and language to en
+2021-04-29T09:33:01+00:00 NOTICE order_submit.success :: addStoreOrder :: #4483 :: email: abc@emial.com :: landing site http://frazshabbir.lucentsoftwares.com/?wc-ajax=get_refreshed_fragments
+2021-04-29T11:02:54+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 6087b5f4b0297
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 6eaf94140c
+            [name] => Fraz Shabbir
+            [domain] => http://frazshabbir.lucentsoftwares.com
+            [email_address] => jmcuog@gmail.com
+            [currency_code] => PKR
+            [money_format] => ₨
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 03320068090
+            [address] => Array
+                (
+                    [address1] => kotla arab ali khan
+                    [city] => KOTLA ARAB ALI KHAN
+                    [province] => PB
+                    [postal_code] => 50990
+                    [country] => PK
+                    [country_code] => PK
+                    [phone] => 03320068090
+                    [company] => Fraz Shabbir
+                )
+
+        )
+
+)
+
+2021-04-29T11:39:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4487
+2021-04-29T11:39:44+00:00 NOTICE debug :: Order ID 4487 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://frazshabbir.lucentsoftwares.com/?wc-ajax=get_refreshed_fragments
+        )
+
+)
+
+2021-04-29T11:40:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4488
+2021-04-29T11:40:59+00:00 NOTICE debug :: Order ID 4488 was pending and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-04-29T11:41:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 912dd294cca8cd7ad1bff5073976f330
+2021-04-29T11:41:09+00:00 NOTICE abandoned_cart.success :: email: abc@emial.com :: checkout_url: http://frazshabbir.lucentsoftwares.com/?page_id=98&mc_cart_id=912dd294cca8cd7ad1bff5073976f330
+2021-04-29T11:41:11+00:00 NOTICE cart.member.updated :: Updated abc@emial.com subscriber status to subscribed and language to en
+2021-04-29T11:41:18+00:00 NOTICE order.member.updated :: Updated abc@emial.com subscriber status to subscribed and language to en
+2021-04-29T11:41:18+00:00 NOTICE order_submit.success :: addStoreOrder :: #4487 :: email: abc@emial.com :: landing site http://frazshabbir.lucentsoftwares.com/?wc-ajax=get_refreshed_fragments :: abandoned cart deleted [912dd294cca8cd7ad1bff5073976f330]
+2021-04-29T11:42:39+00:00 NOTICE system.debug :: order 4488 is in failed status, and is being skipped for now.
+2021-04-29T11:42:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-04-29T11:42:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4489
+2021-04-29T11:42:42+00:00 NOTICE debug :: Order ID 4489 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://frazshabbir.lucentsoftwares.com/?page_id=98&order-received=4481&key=wc_order_KHvGGXz2fVr7x&customize_changeset_uuid=6e8de551-e0e7-45f9-ab32-ad1c389d6dd3&customize_theme=astra&customize_messenger_channel=preview-0
+        )
+
+)
+
+2021-04-29T11:43:49+00:00 NOTICE member.sync :: Updated Member jmcuog@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => fraz
+            [LNAME] => shabbir
+        )
+
+)
+
+2021-04-29T11:45:54+00:00 NOTICE order.member.updated :: Updated jmcuog@gmail.com subscriber status to subscribed and language to en
+2021-04-29T11:45:54+00:00 NOTICE order_submit.success :: addStoreOrder :: #4489 :: email: jmcuog@gmail.com :: landing site http://frazshabbir.lucentsoftwares.com/?page_id=98&order-received=4481&key=wc_order_KHvGGXz2fVr7x&customize_changeset_uuid=6e8de551-e0e7-45f9-ab32-ad1c389d6dd3&customize_theme=astra&customize_messenger_channel=preview-0
+2021-04-29T11:48:11+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 6087b5f4b0297
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 6eaf94140c
+            [name] => Fraz Shabbir
+            [domain] => http://frazshabbir.lucentsoftwares.com
+            [email_address] => jmcuog@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 03320068090
+            [address] => Array
+                (
+                    [address1] => kotla arab ali khan
+                    [city] => KOTLA ARAB ALI KHAN
+                    [province] => PB
+                    [postal_code] => 50990
+                    [country] => PK
+                    [country_code] => PK
+                    [phone] => 03320068090
+                    [company] => Fraz Shabbir
+                )
+
+        )
+
+)
+
+2021-04-29T11:49:58+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 6087b5f4b0297
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 6eaf94140c
+            [name] => Fraz Shabbir
+            [domain] => http://frazshabbir.lucentsoftwares.com
+            [email_address] => jmcuog@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 03320068090
+            [address] => Array
+                (
+                    [address1] => kotla arab ali khan
+                    [city] => KOTLA ARAB ALI KHAN
+                    [province] => PB
+                    [postal_code] => 50990
+                    [country] => PK
+                    [country_code] => PK
+                    [phone] => 03320068090
+                    [company] => Fraz Shabbir
+                )
+
+        )
+
+)
+
+2021-04-29T11:50:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4490
+2021-04-29T11:50:36+00:00 NOTICE debug :: Order ID 4490 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://frazshabbir.lucentsoftwares.com/wp-admin/admin-ajax.php?action=mailchimp_set_user_by_email&email=abc@emial.com&mc_language=en
+        )
+
+)
+
+2021-04-29T11:55:29+00:00 NOTICE order.member.updated :: Updated abc@emial.com subscriber status to subscribed and language to en
+2021-04-29T11:55:29+00:00 NOTICE order_submit.success :: addStoreOrder :: #4490 :: email: abc@emial.com :: landing site http://frazshabbir.lucentsoftwares.com/wp-admin/admin-ajax.php?action=mailchimp_set_user_by_email&email=abc@emial.com&mc_language=en
+2021-04-29T18:51:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4492
+2021-04-29T18:51:20+00:00 NOTICE debug :: Order ID 4492 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://frazshabbir.lucentsoftwares.com/?wc-ajax=get_refreshed_fragments
+        )
+
+)
+
+2021-04-29T18:52:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-04-29T18:53:12+00:00 NOTICE order.member.updated :: Updated abc@emial.com subscriber status to subscribed and language to en
+2021-04-29T18:53:12+00:00 NOTICE order_submit.success :: addStoreOrder :: #4492 :: email: abc@emial.com :: landing site http://frazshabbir.lucentsoftwares.com/?wc-ajax=get_refreshed_fragments
+2021-04-29T18:53:13+00:00 NOTICE member.sync :: Updated Member jmcuog@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => fraz
+            [LNAME] => shabbir
+        )
+
+)
+
+2021-04-29T18:53:52+00:00 NOTICE debug :: Order ID 4492 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-04-29T18:53:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4492
+2021-04-29T18:56:22+00:00 NOTICE order.member.updated :: Updated abc@emial.com subscriber status to subscribed and language to 
+2021-04-29T18:56:22+00:00 NOTICE order_submit.success :: updateStoreOrder :: #4492 :: email: abc@emial.com

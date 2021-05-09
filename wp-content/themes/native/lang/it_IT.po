@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Native 1.0\n"
+"POT-Creation-Date: 2015-08-21 12:21+0100\n"
+"PO-Revision-Date: 2015-08-21 12:22+0100\n"
+"Last-Translator: Lori <lorena@ramonda.me>\n"
+"Language-Team: Designed by <team@designedby.it>\n"
+"Language: Italiano\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid "Oops!"
+msgstr "Oops!"
+
+#: ../404.php:19
+msgid "Error 404! Page not found!"
+msgstr "Pagina non trovata!"
+
+#: ../404.php:23
+msgid "You may search a new item down here..."
+msgstr "E adesso? Puoi provare a cercare una nuova pagina da qui..."
+
+#: ../404.php:25
+msgid "... or sail through navigation voices"
+msgstr "... oppure scegliere una voce del menu"
+
+#: ../comments.php:14
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Questo post &egrave; protetto da password. Inserisci la password per "
+"visualizzare i commenti"
+
+#: ../comments.php:22 ../loop.php:58
+msgid "No comments"
+msgstr "Nessun commento"
+
+#: ../comments.php:22 ../loop.php:58
+msgid "One comment"
+msgstr "Un commento"
+
+#: ../comments.php:22 ../loop.php:58
+#, php-format
+msgid "% comments"
+msgstr "% commenti"
+
+#: ../comments.php:36
+msgid "No comments yet. Be the first to leave a comment."
+msgstr "Nessun commento. Vuoi essere il primo?"
+
+#: ../comments.php:41
+msgid "Comments are closed."
+msgstr "Commenti non consentiti."
+
+#: ../footer.php:32
+msgid "Built on"
+msgstr "Basato su"
+
+#: ../footer.php:32
+msgid "http://themes.designedby.it/native/"
+msgstr "http://themes.designedby.it/native/"
+
+#: ../header.php:17
+msgid "Navigation"
+msgstr "Navigazione"
+
+#: ../loop.php:23
+#, php-format
+msgid "All post written in %s"
+msgstr "Tutti i post scritti in %s"
+
+#: ../loop.php:25
+#, php-format
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#: ../loop.php:27
+#, php-format
+msgid "Tag: %s"
+msgstr "Etichetta: %s"
+
+#: ../loop.php:29
+#, php-format
+msgid "All post by %s"
+msgstr "Tutti i post di %s"
+
+#: ../loop.php:32
+#, php-format
+msgid "Search results for %s"
+msgstr "Cerca risultati per %s"
+
+#: ../loop.php:55
+msgid "- no title set -"
+msgstr "- senza titolo -"
+
+#: ../loop.php:76
+msgid "Pages:"
+msgstr "Pagine: "
+
+#: ../loop.php:99
+msgid "Not found"
+msgstr "Non trovato"
+
+#: ../loop.php:100
+msgid "Oh ops! This page seems to not exist. Try another."
+msgstr "Oh oh. Questa pagina sembra non esistere. Provane un'altra"
+
+#: ../customs/functions/settings.php:59
+msgid "Top menu"
+msgstr "Menu superiore"
+
+#: ../customs/functions/settings.php:60
+msgid "Main menu"
+msgstr "Menu principale"
+
+#: ../customs/functions/settings.php:164
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: ../customs/functions/settings.php:175
+msgid "Right Hand Sidebar"
+msgstr "Barra laterale di destra"
+
+#: ../customs/functions/settings.php:177
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+"I widgeet inseriti in quest'area verrano mostrati nella barra laterale di "
+"destra"
+
+#: ../customs/functions/settings.php:182
+msgid "Footer left Sidebar"
+msgstr "Barra laterale sinistra del footer"
+
+#: ../customs/functions/settings.php:184
+msgid "Widgets in this area will be shown on the footer in the left side."
+msgstr ""
+"I widget inseriti in quest'area verrano mostrati nella barra laterale "
+"sinistra del footer"
+
+#: ../customs/functions/settings.php:189
+msgid "Footer center Sidebar"
+msgstr "Barra laterale centrale del footer"
+
+#: ../customs/functions/settings.php:191
+msgid "Widgets in this area will be shown on the footer in the center."
+msgstr ""
+"I widget inseriti in quest'area verrano mostrati nella barra laterale "
+"centrale del footer"
+
+#: ../customs/functions/settings.php:196
+msgid "Footer right Sidebar"
+msgstr "Barra laterale destra del footer"
+
+#: ../customs/functions/settings.php:198
+msgid "Widgets in this area will be shown on the footer in the right side."
+msgstr ""
+"I widget inseriti in quest'area verrano mostrati nella barra laterale destra "
+"del footer"
+
+#: ../customs/functions/settings.php:224
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../customs/functions/settings.php:224
+msgid "(Edit)"
+msgstr "(modifica)"
+
+#: ../customs/functions/settings.php:238
+msgid "Post author"
+msgstr "Post dell'autore"
+
+#: ../customs/functions/settings.php:245
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento deve essere approvato."
+
+#: ../customs/functions/settings.php:254
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s alle %2$s"
+
+#: ../customs/functions/settings.php:258
+msgid "Edit"
+msgstr "Modifica"
+
+#: ../customs/functions/settings.php:262
+msgid "Reply"
+msgstr "Rispondi"
+
+#~ msgid "Trackbacks and pingbacks"
+#~ msgstr "Trackback e pingback"
+
+#~ msgid "No trackback or pingback found."
+#~ msgstr "Nessun trackback o pingback trovato."
+
+#~ msgid "Author"
+#~ msgstr "Autore"
+
+#~ msgid "Comments"
+#~ msgstr "Commenti"
+
+#~ msgid "Tags"
+#~ msgstr "Etichette"
+
+#~ msgid "Human verification incorrect."
+#~ msgstr "Risultato della verifica antispam non corretto."
+
+#~ msgid "Please supply all information."
+#~ msgstr "Per favore, inserisci tutte le informazioni richieste."
+
+#~ msgid "Email Address Invalid."
+#~ msgstr "Indirizzo mail non valido."
+
+#~ msgid "Message was not sent. Try Again."
+#~ msgstr "Messaggio non inviato. Riprova."
+
+#~ msgid "Thanks! Your message has been sent."
+#~ msgstr "Grazie! Il tuo messaggio è stato mandato."
+
+#~ msgid "Contacts from the site "
+#~ msgstr "Hanno scritto dal sito "
+
+#~ msgid "Name:"
+#~ msgstr "Nome:"
+
+#~ msgid "write your name"
+#~ msgstr "scrivi il tuo nome"
+
+#~ msgid "write your email"
+#~ msgstr "scrivi la tua email"
+
+#~ msgid "Message:"
+#~ msgstr "Messaggio"
+
+#~ msgid "your message"
+#~ msgstr "il tuo messaggio"
+
+#~ msgid "R u human?"
+#~ msgstr "Sei umano?"
+
+#~ msgid "http://themes.designedby.it/native/core/"
+#~ msgstr "http://themes.designedby.it/native/core/"

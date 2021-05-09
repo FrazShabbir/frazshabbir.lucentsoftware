@@ -1,0 +1,144 @@
+2021-04-28T20:35:44+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 6087b5f4b0297
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 6eaf94140c
+            [name] => Fraz Shabbir
+            [domain] => http://frazshabbir.lucentsoftwares.com
+            [email_address] => jmcuog@gmail.com
+            [currency_code] => GBP
+            [money_format] => £
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 03320068090
+            [address] => Array
+                (
+                    [address1] => kotla arab ali khan
+                    [city] => KOTLA ARAB ALI KHAN
+                    [province] => PB
+                    [postal_code] => 50990
+                    [country] => PK
+                    [country_code] => PK
+                    [phone] => 03320068090
+                    [company] => Fraz Shabbir
+                )
+
+        )
+
+)
+
+2021-04-28T20:35:48+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 6087b5f4b0297
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 6eaf94140c
+            [name] => Fraz Shabbir
+            [domain] => http://frazshabbir.lucentsoftwares.com
+            [email_address] => jmcuog@gmail.com
+            [currency_code] => GBP
+            [money_format] => £
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 03320068090
+            [address] => Array
+                (
+                    [address1] => kotla arab ali khan
+                    [city] => KOTLA ARAB ALI KHAN
+                    [province] => PB
+                    [postal_code] => 50990
+                    [country] => PK
+                    [country_code] => PK
+                    [phone] => 03320068090
+                    [company] => Fraz Shabbir
+                )
+
+        )
+
+)
+
+2021-04-28T20:35:51+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 6087b5f4b0297
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 6eaf94140c
+            [name] => Fraz Shabbir
+            [domain] => http://frazshabbir.lucentsoftwares.com
+            [email_address] => jmcuog@gmail.com
+            [currency_code] => GBP
+            [money_format] => £
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 03320068090
+            [address] => Array
+                (
+                    [address1] => kotla arab ali khan
+                    [city] => KOTLA ARAB ALI KHAN
+                    [province] => PB
+                    [postal_code] => 50990
+                    [country] => PK
+                    [country_code] => PK
+                    [phone] => 03320068090
+                    [company] => Fraz Shabbir
+                )
+
+        )
+
+)
+
+2021-04-28T20:35:52+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Wed, Apr 28, 2021 8:35 PM
+2021-04-28T20:35:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2021-04-28T20:36:11+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2021-04-28T20:36:11+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2021-04-28T20:36:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2021-04-28T20:36:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2021-04-28T20:36:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 161
+2021-04-28T20:36:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 167
+2021-04-28T20:36:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 168
+2021-04-28T20:36:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 169
+2021-04-28T20:36:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 170
+2021-04-28T20:36:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 171
+2021-04-28T20:36:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 240
+2021-04-28T20:36:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 241
+2021-04-28T20:36:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 242
+2021-04-28T20:36:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 243
+2021-04-28T20:36:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 245
+2021-04-28T20:36:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 4463
+2021-04-28T20:36:13+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2021-04-28T20:36:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #161
+2021-04-28T20:36:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #167
+2021-04-28T20:36:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #168
+2021-04-28T20:36:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #169
+2021-04-28T20:36:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #170
+2021-04-28T20:36:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #171
+2021-04-28T20:36:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #240
+2021-04-28T20:36:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #241
+2021-04-28T20:36:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #242
+2021-04-28T20:36:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #243
+2021-04-28T20:36:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #245
+2021-04-28T20:36:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #4463
+2021-04-28T20:36:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2021-04-28T20:36:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 2
+2021-04-28T20:36:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order queued :: obj_id 4478
+2021-04-28T20:36:24+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2021-04-28T20:36:29+00:00 NOTICE order.member.updated :: Updated jmcuog@gmail.com subscriber status to subscribed and language to 
+2021-04-28T20:36:29+00:00 NOTICE order_submit.success :: addStoreOrder :: #4478 :: email: jmcuog@gmail.com
+2021-04-28T20:36:30+00:00 NOTICE member.sync :: Updated Member jmcuog@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => fraz
+            [LNAME] => shabbir
+        )
+
+)
+
+2021-04-28T20:36:45+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Apr 28, 2021 8:36 PM (total time: 00:00:53)

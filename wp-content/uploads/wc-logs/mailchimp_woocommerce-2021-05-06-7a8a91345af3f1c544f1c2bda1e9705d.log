@@ -1,0 +1,17 @@
+2021-05-06T08:11:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 9996f70a7cf97638fc2754c58bb31844
+2021-05-06T08:11:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4571
+2021-05-06T08:11:19+00:00 NOTICE debug :: Order ID 4571 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://frazshabbir.lucentsoftwares.com/?page_id=97
+        )
+
+)
+
+2021-05-06T08:11:49+00:00 NOTICE abandoned_cart.success :: email: ahmad.arbab07@gmail.com :: checkout_url: http://frazshabbir.lucentsoftwares.com/?page_id=98&mc_cart_id=9996f70a7cf97638fc2754c58bb31844
+2021-05-06T08:11:49+00:00 NOTICE cart.member.updated :: Updated ahmad.arbab07@gmail.com subscriber status to transactional and language to en
+2021-05-06T09:40:17+00:00 NOTICE order.member.updated :: Updated ahmad.arbab07@gmail.com subscriber status to subscribed and language to en
+2021-05-06T09:40:17+00:00 NOTICE order_submit.success :: addStoreOrder :: #4571 :: email: ahmad.arbab07@gmail.com :: landing site http://frazshabbir.lucentsoftwares.com/?page_id=97 :: abandoned cart deleted [9996f70a7cf97638fc2754c58bb31844]
