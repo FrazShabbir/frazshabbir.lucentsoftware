@@ -1,0 +1,26 @@
+
+---Downloaded files---
+The import files for: ReCompare were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://frazshabbir.lucentsoftwares.com
+Data file = /var/www/wordpress/wp-content/uploads/2021/05/demo-content-import-file_2021-05-26__08-24-11.xml
+Widget file = /var/www/wordpress/wp-content/uploads/2021/05/demo-widgets-import-file_2021-05-26__08-24-11.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
